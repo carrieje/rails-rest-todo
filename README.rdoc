@@ -1,0 +1,4 @@
+# Notes diverses
+
+- Scoper l'api dans les routes par /api/v1 et les pages "statiques" (client dynamique) avec le reste
+- avoir des pages "intention" pour l'UI et des pages "resourceful" en API
